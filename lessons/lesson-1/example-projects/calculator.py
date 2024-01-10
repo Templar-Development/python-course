@@ -46,6 +46,9 @@ def divide(first_number, second_number):
     return first_number / second_number
 
 
-# dont worry about this for now
+# This block of code will only be executed if the script is run directly,
+# not if it's imported as a module into another script.
+# It's the entry point for running the script.
+# Ill go over this in more detail later
 if __name__ == "__main__":
     calculator()

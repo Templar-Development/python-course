@@ -1,4 +1,4 @@
-# Lesson-1 | Intro to Python
+# Lesson-1-Overview | Intro to Python
 
 ## Topics
 
@@ -26,18 +26,3 @@
    - Using the `input()` function
    - Handling user input
    - Type conversion
-
-## Project: Simple Calculator
-
-In this project, you will create a simple calculator program that can perform basic arithmetic operations. The goal is to apply the concepts learned in this lesson to build a functional and interactive Python program.
-
-#### Requirements:
-
-1. Implement functions for addition, subtraction, multiplication, and division.
-2. Take user input for two numbers and the desired operation.
-3. Display the result of the chosen operation.
-
-#### Bonus:
-
-- Add error handling to handle invalid input, such as non-numeric values.
-- Expand the calculator to include additional mathematical operations (e.g., exponentiation, square root).
